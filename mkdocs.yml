@@ -1,0 +1,35 @@
+site_name: My Docs
+# Theme settings
+theme:
+  name: "material"
+  language: en
+  icon:
+    logo: "fontawesome/solid/chess-king"
+  palette:
+    primary: blue
+    accent: red
+  font:
+    text: Roboto
+    code: Roboto Mono 
+
+nav:
+  - Home: index.md
+  
+
+
+
+
+# Repository
+repo_name: sai-koushik-macha/sai-koushik-macha.github.io
+repo_url: https://github.com/sai-koushik-macha/sai-koushik-macha.github.io
+
+
+
+
+
+extra:
+  social:
+    - icon: "fontawesome/brands/github"
+      link: "https://github.com/srinidh-007"
+    - icon: "fontawesome/brands/linkedin"
+      link: "https://www.linkedin.com/in/sai-koushik-macha-75ab51199/" 
