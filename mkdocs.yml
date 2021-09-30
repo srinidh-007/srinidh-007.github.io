@@ -1,4 +1,8 @@
-site_name: My Docs
+site_name: Srinidh's Blog
+site_description: My Website
+site_author: Srinidh Reddy
+
+site_url: https://srinidh-007.github.io/
 # Theme settings
 theme:
   name: "material"
