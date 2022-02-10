@@ -1,3 +1,3 @@
-# Website
+# Personal Site
 
-This is my personal blog/website
+## Hello all , My name is Srinidh and this is my personal site, I am Tech Enthusiast 
