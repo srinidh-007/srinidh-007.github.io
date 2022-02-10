@@ -1,3 +1,8 @@
-# Personal Site
+# Welcome to my website 
 
-## Hello all , My name is Srinidh and this is my personal site, I am Tech Enthusiast 
+
+
+- 👋 Hi, I’m Srinidh Reddy and I am currently doing my Computer Science major from IIIT Sricity.
+- 👀 I’m interested in Technology and Sciences.
+- 🌱 I’m currently learning Data Science and Computer Vision.
+- 💞️ I’m looking to collaborate on Web Development, Data Science Problems.
